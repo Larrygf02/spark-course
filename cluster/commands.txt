@@ -1,0 +1,2 @@
+aws s3 cp s3://sundog-spark/MovieSimilarities1M.py ./
+aws s3 cp s3://sundog-spark/ml-1m/movies.dat ./
